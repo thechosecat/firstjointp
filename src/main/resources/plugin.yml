@@ -1,0 +1,4 @@
+name: Firstjointp
+version: '${project.version}'
+main: catnoob.firstjointp.Main
+api-version: 1.19
